@@ -1,0 +1,90 @@
+// Parameters for image
+var startDate = ee.Date('2010-01-01');  
+var endDate = ee.Date('2012-01-01'); 
+
+// Export details
+var drive_export = "Precipitation";
+var file_name = 'CHIRPS_MLI04C_2010-11';
+
+// Variables
+// Renaming so that we can more quickly replicate with new places.
+var grid = grid_MLI04C;
+
+
+
+
+
+// Parameters for image
+var startDate = ee.Date('2012-01-01');  
+var endDate = ee.Date('2014-01-01'); 
+
+// Export details
+var drive_export = "Precipitation";
+var file_name = 'CHIRPS_MLI04C_2012-13';
+
+// Variables
+// Renaming so that we can more quickly replicate with new places.
+var grid = grid_MLI04C;
+
+
+
+
+
+// Parameters for image
+var startDate = ee.Date('2014-01-01');  
+var endDate = ee.Date('2016-01-01'); 
+
+// Export details
+var drive_export = "Precipitation";
+var file_name = 'CHIRPS_MLI04C_2014-15';
+
+// Variables
+// Renaming so that we can more quickly replicate with new places.
+var grid = grid_MLI04C;
+
+
+
+
+
+// Parameters for image
+var startDate = ee.Date('2016-01-01');  
+var endDate = ee.Date('2018-01-01'); 
+
+// Export details
+var drive_export = "Precipitation";
+var file_name = 'CHIRPS_MLI04C_2016-17';
+
+// Variables
+// Renaming so that we can more quickly replicate with new places.
+var grid = grid_MLI04C;
+
+
+
+
+// Parameters for image
+var startDate = ee.Date('2018-01-01');  
+var endDate = ee.Date('2020-01-01'); 
+
+// Export details
+var drive_export = "Precipitation";
+var file_name = 'CHIRPS_MLI04C_2018-19';
+
+// Variables
+// Renaming so that we can more quickly replicate with new places.
+var grid = grid_MLI04C;
+
+
+
+
+
+// Parameters for image
+var startDate = ee.Date('2020-01-01');  
+var endDate = ee.Date('2022-01-01'); 
+
+// Export details
+var drive_export = "Precipitation";
+var file_name = 'CHIRPS_MLI04C_2020-21';
+
+// Variables
+// Renaming so that we can more quickly replicate with new places.
+var grid = grid_MLI04C;
